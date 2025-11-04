@@ -8,9 +8,9 @@
 Frieren: Beyond Journey's End separates itself from other animated fantasy series by shifting the main focus on what lies after the journey as Frieren encounters meaningful meetings and departures.
 
 ## List of characters:
-| Syntax | Description |
+| Character | Description |
 | ----------- | ----------- |
-| Header | Title |
+| ![alt text](frieren.jpg) | Frieren - The main protagonist of the series. An elven mage of more than a thousand years old. |
 | Paragraph | Text |
 
 
