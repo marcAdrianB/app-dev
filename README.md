@@ -8,7 +8,7 @@
 Frieren: Beyond Journey's End separates itself from other animated fantasy series by shifting the main focus on what lies after the journey as Frieren encounters meaningful meetings and departures.
 
 ## List of characters:
-| Character | Description |
+| Character Image | Name and Description |
 | ----------- | ----------- |
 | ![alt text](frieren.jpg) | **Frieren** - The main protagonist of the series. An elven mage of more than a thousand years old. |
 | ![alt text](fern.jpg) | **Fern** - The mage apprentice of Frieren. She was a war orphan adopted by Heiter the Priest.|
