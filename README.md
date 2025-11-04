@@ -1,4 +1,4 @@
-# My Favorite Series
+# **My Favorite Series**
 ## *What lies after the end of the Journey? Frieren: Beyond Journey's End*
 
 ![alt text](Sousou-no-Frieren-Anime-Blog-Banner.jpg)
@@ -7,7 +7,16 @@
 
 Frieren: Beyond Journey's End separates itself from other animated fantasy series by shifting the main focus on what lies after the journey as Frieren encounters meaningful meetings and departures.
 
-List of characters:
+## List of characters:
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
+
+
+
 1. Frieren the Mage
 2. Fern
 3. Stark
