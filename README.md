@@ -10,17 +10,11 @@ Frieren: Beyond Journey's End separates itself from other animated fantasy serie
 ## List of characters:
 | Character | Description |
 | ----------- | ----------- |
-| ![alt text](frieren.jpg) | Frieren - The main protagonist of the series. An elven mage of more than a thousand years old. |
-| Paragraph | Text |
-
-
-
-
-
-1. Frieren the Mage
-2. Fern
-3. Stark
-4. Himmel the Hero
-5. Eisen the Warrior
-6. Heiter the Priest
-7. and many more...
+| ![alt text](frieren.jpg) | **Frieren**
+The main protagonist of the series. An elven mage of more than a thousand years old. |
+| ![alt text](fern.jpg) | **Fern**
+The mage apprentice of Frieren. She was a war orphan adopted by Heiter the Priest.|
+| ![alt text](stark.jpg) | **Stark**
+The apprentice trained by Eisen the Warrior. He later joined Frieren and Fern on their journey to the north. |
+| ![alt text](himmel.jpg) | **Himmel the Hero**
+The hero that led Frieren and others in defeating the Demon King, bringing peace once again to the continent.|
