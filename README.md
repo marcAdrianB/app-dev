@@ -1,7 +1,7 @@
 # My Favorite Series
 ## *What lies after the end of the Journey? Frieren: Beyond Journey's End*
 
-![alt text]([image.jpg](https://www.sekinamayu.com/sousou-no-frieren-anime/))
+![alt text](Sousou-no-Frieren-Anime-Blog-Banner.jpg)
 
 葬送のフリーレン (Sousou no Frieren) or Frieren: Beyond Journey's End tells the story of Frieren, an elven mage that has already lived for more than a thousand years. She had the chance to fight and travel together with Himmel the Hero, Eisen the Warrior, and Heiter the Priest. Their 10-year adventure concluded as they defeated the demon king and brought peace to the continent.
 
